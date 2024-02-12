@@ -35,4 +35,4 @@ Support is provided on a best-we-can-do basis via GitHub Issues and Slack.
 
 You are required to obtain a company license to use VideoRAG if you are not within the group of entities eligible for a free license. This license will enable you to use VideoRAG for the allowed use cases specified in the free license, and give you access to prioritized support.
 
-Email [hello@camcorder.ai](mailto:hello@camcorder.ai?subject="VideoRAG%20inquiry") for pricing and to buy a license.
+Email [hello@camcorder.ai](mailto:hello@camcorder.ai?subject=VideoRAG%20inquiry) for pricing and to buy a license.
