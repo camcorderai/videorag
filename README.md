@@ -1,6 +1,6 @@
 # VideoRAG
 
-###Search video with AI - transcript, visual, metadata - search using keywords or semantically
+### Search video with AI - transcript, visual, metadata - search using keywords or semantically
 
 ## Motivation
 
