@@ -1,9 +1,6 @@
 # Camcorder AI VideoRAG License
 
-Depending on the type of your legal entity, you are granted permission to use Camcorder AI VideoRAG for your project. Individuals and small companies are allowed to use VideoRAG to create videos for free (even commercial), while a company license is required for for-profit organizations of a certain size. This two-tier system was designed to ensure funding for this project while still allowing the source code to be available and the program to be free for most. Read below for the exact terms of use.
-
-- [Free license](#free-license)
-- [Company license](#company-license)
+Depending on the type of your legal entity, you are granted permission to use Camcorder AI VideoRAG for your project. Individuals and small companies are allowed to use VideoRAG to search videos and images for free (even commercial), while a company license is required for for-profit organizations of a certain size. This two-tier system was designed to ensure funding for this project while still allowing the source code to be available and the program to be free for most. Read below for the exact terms of use.
 
 ## Free license
 
